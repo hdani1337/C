@@ -1,0 +1,3 @@
+﻿  hdani1337_Matrixok.cpp
+c:\users\hallgato\source\repos\hdani1337_matrixok\hdani1337_matrixok\hdani1337_matrixok.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hdani1337_Matrixok.vcxproj -> C:\Users\Hallgato\source\repos\hdani1337_Matrixok\Debug\hdani1337_Matrixok.exe
