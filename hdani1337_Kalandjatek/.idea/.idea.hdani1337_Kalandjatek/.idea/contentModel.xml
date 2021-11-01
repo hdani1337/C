@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Horváth Dániel\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Horváth Dániel\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_hdani1337_Kalandjatek.-2061629392.00" t="ExcludeRecursive" />
+    <e p="E:\C\hdani1337_Kalandjatek" t="IncludeFlat">
+      <e p="Debug" t="ExcludeRecursive" />
+      <e p="hdani1337_Kalandjatek" t="IncludeRecursive">
+        <e p="Debug" t="ExcludeRecursive" />
+        <e p="hdani1337_Kalandjatek.cpp" t="Include" />
+        <e p="hdani1337_Kalandjatek.vcxproj" t="IncludeRecursive" />
+        <e p="pch.cpp" t="Include" />
+        <e p="pch.h" t="Include" />
+      </e>
+      <e p="hdani1337_Kalandjatek.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
