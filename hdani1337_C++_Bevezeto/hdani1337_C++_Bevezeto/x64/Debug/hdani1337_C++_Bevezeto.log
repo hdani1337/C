@@ -1,0 +1,6 @@
+﻿  hdani1337_C++_Bevezeto.cpp
+D:\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto.cpp(53,7): warning C4101: 'muvelet': unreferenced local variable
+D:\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto.cpp(52,9): warning C4101: 'a': unreferenced local variable
+D:\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto.cpp(52,12): warning C4101: 'b': unreferenced local variable
+D:\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto\hdani1337_C++_Bevezeto.cpp(52,15): warning C4101: 'eredmeny': unreferenced local variable
+  hdani1337_C++_Bevezeto.vcxproj -> D:\hdani1337_C++_Bevezeto\x64\Debug\hdani1337_C++_Bevezeto.exe

@@ -1,0 +1,4 @@
+﻿  G3051A_ZH_20220310.cpp
+C:\Users\Felhasznalo\Documents\G3051A_ZH_20220310\G3051A_ZH_20220310\G3051A_ZH_20220310.cpp(22,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Felhasznalo\Documents\G3051A_ZH_20220310\G3051A_ZH_20220310\G3051A_ZH_20220310.cpp(23,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  G3051A_ZH_20220310.vcxproj -> C:\Users\Felhasznalo\Documents\G3051A_ZH_20220310\x64\Debug\G3051A_ZH_20220310.exe
