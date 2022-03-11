@@ -1,0 +1,10 @@
+Anna 1984 3
+Peter 1990 2
+Csaba 1991 3
+Otto 1987 3
+Judit 1990 2
+Laszlo 1978 1
+Csilla 1997 2
+Janos 1971 3
+Vera 1991 1
+Tibor 1982 3

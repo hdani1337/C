@@ -1,0 +1,3 @@
+﻿  Haromszog.cpp
+e:\hdani1337_szivaoop\hdani1337_szivaoop\haromszog.cpp(13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  hdani1337_SzivaOOP.vcxproj -> E:\hdani1337_SzivaOOP\Debug\hdani1337_SzivaOOP.exe
